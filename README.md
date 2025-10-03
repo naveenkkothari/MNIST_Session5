@@ -2,9 +2,9 @@ Mnist Session 5
 1. Train model with lesss than 20k parameters
 2. Achieve accuracy of 99.4%
 Final Model
-|Notebook | Model Parameters | Accuracy (Epoch1) | Description|
-|---------|-----------------|--------------------|------------|
-| https://github.com/naveenkkothari/MNIST_Session5/blob/main/MNIST_Session5.ipynb| 19,290 | 99.3% | Final Version|
+|    Notebook         | Model Parameters | Accuracy (Epoch1) | Description|
+|---------------------|-----------------|--------------------|------------|
+| MNIST_Session5.ipynb| 19,290 | 99.3% | Final Version|
 
 ## Final Model 
 
